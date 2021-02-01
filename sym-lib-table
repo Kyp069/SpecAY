@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ay-rescue)(type Legacy)(uri ${KIPRJMOD}/ay-rescue.lib)(options "")(descr ""))
+)
